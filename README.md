@@ -1,10 +1,9 @@
 <h1 align="left">
     DeadsoulK
 </h1>
-<blockquote>
-    Learn new things.
-</blockquote>
 
+> [!WARNING]
+> Lots of broken glass here, please be careful.
 <br>
 
 <p align="center">
