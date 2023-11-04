@@ -3,7 +3,7 @@
 </h1>
 
 > [!WARNING]
-> Lots of broken glass here, please be careful.
+> Please be careful, there is a lot of broken glass here.
 > 
 <p align="left">
     <a href="https://git.io/streak-stats">
