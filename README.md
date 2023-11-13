@@ -1,6 +1,4 @@
-<h1 align="left">
-   DSK's
-</h1>
+# [DSK](https://www.intagram.com/mfty4n) Bois
 
 > [!WARNING]
 > Please be careful, there is a lot of broken glass here.
